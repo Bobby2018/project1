@@ -7,8 +7,7 @@ include 'nav.php';
                     <div class="container-fluid">
                         <div class="row visible-on">
                             <div class="col-md-3">
-                                <img src="tumeric.jpg" class="img" alt="tumeric" width="250" height="375"></img>
-                                <p>Image from <a href=https://authoritynutrition.com/top-10-evidence-based-health-benefits-of-turmeric/>authoritynutrition.com</a></p>
+                                <img src="tumeric.jpg" class="img" alt="turmeric" width="250" height="375"></img>
                             </div>
                             
                             <div class="col-md-5">

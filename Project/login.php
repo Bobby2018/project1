@@ -31,7 +31,6 @@ if (isset ( $_POST ['full_name'] )) {
                                 <img src="tumeric2.jpg" class="img" alt="tumeric" width="250" height="200"></img>
                                 <img src="kohlrabi.jpg" class="img" alt="kohlrabi" width="250" height="200"></img>
                                 <img src="cilantro.jpg" class="img" alt="cilantro" width="250" height="200"></img>
-                                <p> Images from <a href=https://draxe.com/cilantro-benefits/>draxe.com</a> , <a href=http://www.simplyrecipes.com/kohlrabi/>simplyrecipes</a> , and <a href=https://d2v4vjmuxdiocn.cloudfront.net/wp-content/uploads/Curmin-image.jpg>cloudfront.net</a> </p>
                             </div>
             
 					

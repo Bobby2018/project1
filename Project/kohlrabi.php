@@ -8,7 +8,6 @@ include 'nav.php';
                         <div class="row visible-on">
                             <div class="col-md-3">
                                 <img src="kohlrabi2.jpg" class="img" alt="kohlrabi" width="250" height="375"></img>
-                                <p>Image from <a href=http://www.burpee.com/vegetables/kohlrabi//>burpee.com</a></p>
                             </div>
                             
                             <div class="col-md-5">

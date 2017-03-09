@@ -8,7 +8,6 @@ include 'nav.php';
                         <div class="row visible-on">
                             <div class="col-md-3">
                                 <img src="cilantro2.jpg" class="img" alt="cilantro" width="250" height="375"></img>
-                                <p>Image from <a href=http://ppc.wikia.com/wiki/Cilantro>wikia.com</a></p>
                             </div>
                             
                             <div class="col-md-5">

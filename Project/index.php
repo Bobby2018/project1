@@ -12,7 +12,6 @@ include 'nav.php';
                                 <img src="tumeric2.jpg" class="img" alt="tumeric" width="250" height="200"></img>
                                 <img src="kohlrabi.jpg" class="img" alt="kohlrabi" width="250" height="200"></img>
                                 <img src="cilantro.jpg" class="img" alt="cilantro" width="250" height="200"></img>
-                                <p> Images from <a href=https://draxe.com/cilantro-benefits/>draxe.com</a> , <a href=http://www.simplyrecipes.com/kohlrabi/>simplyrecipes</a> , and <a href=https://d2v4vjmuxdiocn.cloudfront.net/wp-content/uploads/Curmin-image.jpg>cloudfront.net</a> </p>
                             </div>
             
 					
@@ -30,7 +29,7 @@ include 'nav.php';
                             </h4> 
                         </div>
                         <div class="maincontent">    
-                        <p> Welcome to our homepage! This site is so you can learn about three ingredients: Kohlrabi, Tumeric, and Cilantro. The about us link will take you to our page where you can learn all about the owners. If you use the drop down menu you will find links to our pages for each ingredient. If you log in you will beable to make comments on our ingredient pages.</p>
+                        <p> Welcome to our homepage! This site is so you can learn about three ingredients: Kohlrabi, Tumeric, and Cilantro. The about us link will take you to our page where you can learn all about the owners. If you use the drop down menu you will find links to our pages for each ingredient. If you log in you will beable to make comments on our ingredient pages. All photos used are open source and from <a href=https://pixabay.com/>pixabay.com</a> and <a href=https://www.pexels.com/>pexels.com</a>.</p>
                       
                         </div>	
                 </div>
