@@ -44,12 +44,20 @@ if (isset ( $_POST ['full_name'] )) {
                         </div>
                         <div class="maincontent"> 
 						<br><br>
-						Username:
-						
+						<div class="loginFormat">
+						<form action="./index.php" method="post">
+							<p>User Name:</p>
+							<select name = "User Name">
+								<option value="jack">Jack</option>
+								<option value="bobby">Bobby</option>
+								<option value="ct310">ct310</option>
+							</select>
+							<br><br>
+							<p>Password:</p><input type="password" name="pass"><br><br>
+							<input type="submit" value="Login">
+						</form>
 						<br><br><br>
-						
-						Password:
-                        
+                        </div>
                         </div>	
                 </div>
 		</div>
